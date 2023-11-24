@@ -1,4 +1,4 @@
-# In-Game-Player-Behavior-Analysis
+# In-Game-Player-Analysis
 
 ## Introduction
 
