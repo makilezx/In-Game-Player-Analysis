@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository offers an code written for examination of player behavior within the game environment. 
+This repository contains a code written for the examination of player behavior within the game environment. 
 
 ## Aim
 
